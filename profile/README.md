@@ -1,6 +1,6 @@
 # Black-Lotus-Project
 
-### **Rent your computer's computing power to earn money or pay to have your hashes decrypted.**
+### **Rent your GPU power to earn money or pay to have your hashes decrypted.**
 
 
 [***Discord Server***]()
